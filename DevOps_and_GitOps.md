@@ -1,4 +1,4 @@
-# DevOps and GitOps
+# Introduction
 
 *DevOps* is a mixture of principles, practices, and tools that allow teams to deliver higher quality software at a faster pace. The principles are generally agreed upon. However, the practices can vary differently across groups and in some cases they are tough to put in place.
 
