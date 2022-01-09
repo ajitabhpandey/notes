@@ -1,6 +1,9 @@
+---
+title: DevOps and GitOps
 layout: page
-title: "DevOps and GitOps"
 permalink: /devops-and-gitops/
+filename: DevOps_and_GitOps.md
+--- 
 
 # Introduction
 
